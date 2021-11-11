@@ -1,5 +1,5 @@
 <h2 align="center">
-  :weight_lifting: flutterando_desafio_27 :heavy_check_mark: 
+  :weight_lifting: Flutterando Desafio_aula_27 :heavy_check_mark: 
 </h2>
 
 <p align="center">
